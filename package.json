@@ -1,0 +1,11 @@
+{
+  "name": "notasmartinanievas",
+  "version": "1.0.0",
+  "description": "App web para agendar eventos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martinuski",
+  "license": "ISC"
+}
